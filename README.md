@@ -1,2 +1,3 @@
 # webscrapping
-Web Scrapping Practice
+
+Examples of Web Scrapping.  Here I'm mostly pulling from Wikipedia using Python and Beautiful Soup
